@@ -1,4 +1,4 @@
-# hello_world
+#  TensorFlow Beginner: Basic Image Classification
 Just another repository
 
 Project-Based Course Overview
